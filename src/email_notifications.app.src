@@ -1,0 +1,19 @@
+{application, email_notifications,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { email_notifications_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    lager,
+    erlydtl,
+    gen_smtp
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.

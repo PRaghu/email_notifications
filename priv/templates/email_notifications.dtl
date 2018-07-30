@@ -1,0 +1,6 @@
+Subject: {{ subject }}
+To: {{ to }}
+
+{% block content %}
+	{{ body }}
+{% endblock %}

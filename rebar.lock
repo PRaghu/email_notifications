@@ -1,0 +1,12 @@
+{"1.1.0",
+[{<<"erlydtl">>,{pkg,<<"erlydtl">>,<<"0.12.1">>},0},
+ {<<"gen_smtp">>,{pkg,<<"gen_smtp">>,<<"0.12.0">>},0},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.9">>},1},
+ {<<"lager">>,{pkg,<<"lager">>,<<"3.6.1">>},0}]}.
+[
+{pkg_hash,[
+ {<<"erlydtl">>, <<"3FDE3190D30340B10CFCFDB4135A828761D468DB4E4B34817C6B91D295F3142D">>},
+ {<<"gen_smtp">>, <<"97D44903F5CA18CA85CB39AEE7D9C77E98D79804BBDEF56078ADCF905CB2EF00">>},
+ {<<"goldrush">>, <<"F06E5D5F1277DA5C413E84D5A2924174182FB108DABB39D5EC548B27424CD106">>},
+ {<<"lager">>, <<"9D29C5FF7F926D25ECD9899990867C9152DCF34EEE65BAC8EC0DFC0D16A26E0C">>}]}
+].
